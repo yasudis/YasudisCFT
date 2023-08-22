@@ -41,7 +41,7 @@
 * mvn compile
 * mvn package
 * cd target
-* java -jar YasudisCFT-1.0-SNAPSHOT.jar [-a|-d] {-i|-s} out.txt in1.txt [inf2.txt...]
+* java -jar YasudisCFT-1.0-SNAPSHOT.jar [-a|-d] {-i|-s} out.txt in1.txt [in2.txt...]
 
 # Описание параметров:
 * -a - соритровка по возрастанию (необязательный, по умолчанию)
